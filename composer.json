@@ -1,0 +1,16 @@
+{
+    "name": "kenli/composertest",
+    "description": "kenli composer test",
+    "authors": [
+        {
+            "name": "weijunken",
+            "email": "529632363@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Composer\\": "src/"
+		}
+	}
+}
